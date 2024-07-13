@@ -6,7 +6,8 @@
 ## Sobre mi
 - 💻 Me encanta conocer y aprender nuevas herramientas tecnológicas.
 - 👨‍🎓 Estudio Ingeniería industrial y estoy cursando el sexto ciclo.
-- 📊 Tengo gran interés en desarrollarme en el área del análisis de datos, logística o proyectos. 
+- 📊 Tengo gran interés en desarrollarme en el área del análisis de datos, logística o proyectos.
+- ♟️ Aficionado del ajedrez
 
 <br>
 
