@@ -9,7 +9,7 @@
 - 📊 Tengo gran interés en desarrollarme en el área del análisis de datos, logística o proyectos.
 - ♟️ Aficionado del ajedrez
 
-<br>
+
 
 ## Herramientas 
 
