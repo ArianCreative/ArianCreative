@@ -1,7 +1,9 @@
 <div align="center">
 <h1 align="center">Hola, soy Edson! 👋</h1>
 </div>
-<img src="https://i.imgur.com/5Smn8w6.gif" alt="GIF descriptivo">
+<img src="https://imgur.com/5Smn8w6.gif" alt="GIF descriptivo">
+
+
 
 ## Sobre mi
 - 💻 Me encanta conocer y aprender nuevas herramientas tecnológicas.
