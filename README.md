@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">Hola, soy Edson! 👋</h1>
 </div>
-<img src="https://imgur.com/5Smn8w6.gif" alt="GIF descriptivo">
+<img src="https://imgur.com/T2e0aD3.gif">
 
 
 
